@@ -1,14 +1,14 @@
 {
-  "name": "att-voodoo",
-  "version": "1.3.0",
+  "name": "att-chronos",
+  "version": "1.3.1",
   "description": "A community-made magic mod for A Township Tale, a VR MMORPG game.",
   "main": "build/ui/main.js",
   "scripts": {
     "compile": "tsc --noEmit",
     "build": "npm run build:speech && npm run build:ui",
     "prebuild:speech": "rimraf ./build/speech",
-    "build:speech": "nuget restore src/speech && dotnet build --no-incremental --force --output build/speech src/speech && cp src/speech/grammar.xml build/speech",
-    "prebuild:ui": "rimraf ./build/ui ./dist && mkdir build/ui && cp src/ui/images/icon.png build/ui/icon.png",
+    "build:speech": "nuget restore src/speech && dotnet build --no-incremental --force --output build/speech src/speech && xcopy src/speech/grammar.xml build/speech",
+    "prebuild:ui": "",
     "build:ui": "webpack --mode=production && electron-builder -w",
     "react:dev": "webpack serve --mode=development",
     "electron:dev": "nodemon",
@@ -17,8 +17,8 @@
   },
   "build": {
     "extends": null,
-    "appId": "com.marcdingena.townshiptale.voodoo",
-    "productName": "Voodoo",
+    "appId": "com.marcdingena.townshiptale.chronos",
+    "productName": "Chronos",
     "copyright": "Copyright © 2021-2022 ${author}",
     "mac": {
       "category": "public.app-category.utilities"

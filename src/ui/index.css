@@ -4,16 +4,16 @@
 }
 
 :root {
-  --colour-green-100: #010a09;
-  --colour-green-200: #041816;
-  --colour-green-300: #062724;
-  --colour-green-400: #0d534d;
-  --colour-green-500: #147f76;
-  --colour-green-600: #1aab9e;
-  --colour-green-700: #2bdece;
-  --colour-green-800: #bff5f0;
-  --colour-green-900: #fafefe;
-  --colour-crystal: #50bb87;
+  --colour-green-100: #090a01;
+  --colour-green-200: #171804;
+  --colour-green-300: #272606;
+  --colour-green-400: #53520d;
+  --colour-green-500: #747f14;
+  --colour-green-600: #a9ab1a;
+  --colour-green-700: #bdde2b;
+  --colour-green-800: #f5f4bf;
+  --colour-green-900: #fefefa;
+  --colour-crystal: #b9bb50;
   --colour-feedback-match: greenyellow;
   --colour-feedback-partial: gold;
   --colour-feedback-mismatch: tomato;

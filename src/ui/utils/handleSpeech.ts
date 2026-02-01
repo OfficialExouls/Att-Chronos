@@ -31,9 +31,9 @@ const MODES = {
 };
 
 const PHRASES = {
-  AWAKEN: 'awaken voodoo',
+  AWAKEN: 'awaken chronos',
   INCANTATION: {
-    START: 'attune voodoo',
+    START: 'attune chronos',
     CONFIRM: 'seal',
     ABORT: 'nullify'
   },
@@ -41,7 +41,7 @@ const PHRASES = {
     START: 'sanguinem magicae',
     ABORT: 'nullify'
   },
-  SUPPRESS: 'suppress voodoo',
+  SUPPRESS: 'suppress chronos',
   TRIGGER: 'evoke',
   BLOOD_TRIGGER: 'excio'
 };

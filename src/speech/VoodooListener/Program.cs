@@ -2,10 +2,10 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using WebSocketSharp;
+//using WebSocketSharp;
 using Alta.WebApi.Utility;
 using Alta.WebApi.Client;
-using Newtonsoft.Json;
+//using Newtonsoft.Json;
 using System.IO;
 using System.Speech.Recognition;
 using System.Speech.Recognition.SrgsGrammar;

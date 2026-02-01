@@ -41,7 +41,7 @@ export const LoginScreen = (): JSX.Element => {
       </div>
       {appStage === AppStage.Ready ? (
         <div className={styles.login} style={{ opacity: 1 }}>
-          <span className={styles.title}>Voodoo</span>
+          <span className={styles.title}>Chronos</span>
           <span className={styles.subtitle}>
             Magic Mod for
             <br />A Township Tale
@@ -60,11 +60,11 @@ export const LoginScreen = (): JSX.Element => {
           </button>
         </div>
         <div className={styles.discord}>
-          <a className={styles.link} href='https://discord.gg/THy2AVBPHX' title='Join the Voodoo Discord server'>
-            Join the Voodoo community on Discord
+          <a className={styles.link} href='' title='Join the Voodoo Discord server'>
+            Join the Chronos community on Discord
           </a>
         </div>
-        <div className={styles.version}>v{packageJson.version} by&nbsp;Ethyn&nbsp;Wyrmbane</div>
+        <div className={styles.version}>v{packageJson.version} by&nbsp;Exouls</div>
         <div>
           Crystal art by{' '}
           <a className={styles.link} href='https://twitter.com/ubizozo' title="UbiZoZo's Twitter">

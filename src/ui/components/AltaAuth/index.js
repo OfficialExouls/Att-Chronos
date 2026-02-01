@@ -1,0 +1,10 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.LoginButton = exports.RequireAuth = exports.withAuth = exports.useAuth = exports.AuthProvider = exports.AuthConsumer = void 0;
+var AltaAuth_1 = require("./AltaAuth");
+Object.defineProperty(exports, "AuthConsumer", { enumerable: true, get: function () { return AltaAuth_1.AuthConsumer; } });
+Object.defineProperty(exports, "AuthProvider", { enumerable: true, get: function () { return AltaAuth_1.AuthProvider; } });
+Object.defineProperty(exports, "useAuth", { enumerable: true, get: function () { return AltaAuth_1.useAuth; } });
+Object.defineProperty(exports, "withAuth", { enumerable: true, get: function () { return AltaAuth_1.withAuth; } });
+Object.defineProperty(exports, "RequireAuth", { enumerable: true, get: function () { return AltaAuth_1.RequireAuth; } });
+Object.defineProperty(exports, "LoginButton", { enumerable: true, get: function () { return AltaAuth_1.LoginButton; } });

@@ -23,14 +23,14 @@ const initialiseApp = async (): Promise<void> => {
   /* Create processes. */
   let speech: ChildProcess | null = null;
   let ui: BrowserWindow | null = new BrowserWindow({
-    title: 'Voodoo',
+    title: 'Chronos',
     width: 360,
     height: 640,
     useContentSize: true,
     resizable: false,
     maximizable: false,
     fullscreenable: false,
-    backgroundColor: '#062724',
+    backgroundColor: '#272606',
     webPreferences: {
       contextIsolation: false,
       nodeIntegration: true,
