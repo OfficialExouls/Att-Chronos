@@ -2,13 +2,13 @@
 
 ## Installation
 
-1. Download the [latest release of `Chronos Setup.exe`](https://github.com/ExoulsOfficial/att-Chronos/releases).
+1. Download the [latest release of `Chronos Setup.exe`](https://github.com/OfficialExouls/att-Chronos/releases).
 1. Run `Cronos Setup.exe`. This is a one-click installation, so after the installation process finishes, you should have a new desktop icon for Chronos.
 
 ## Usage
 
 1. Launch `Chronos`.
-1. Sign in with your Alta account. This opens a new window in your browser. Confirm that you are really on the official Alta website before entering your credentials, otherwise please [report an issue](https://github.com/OfficialExouls/att-Chronos/issues).
+1. Sign in with your Alta account. This opens a new window in your browser. Confirm that you are really on the official Alta website before entering your credentials, otherwise please [report an issue](https://github.com/OfficalExouls/att-Chronos/issues).
 1. Chronos will create a new play session for you, and automatically continue to the server selection screen.
 1. On the server selection screen you can see all ATT game servers that support Chronos. Join one of these servers in-game.
 1. Chronos automatically detects if you have joined a supported server and will display the spellcasting interface.
