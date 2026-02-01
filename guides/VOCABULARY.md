@@ -1,12 +1,12 @@
-# Voodoo Vocabulary
+# Chronos Vocabulary
 
-## Controlling Voodoo modes
+## Controlling Chronos modes
 
-- `"Suppress Voodoo"` can be said at **any time** to deafen Voodoo. It will no longer respond to any commands, except the awaken command.
-- `"Awaken Voodoo"` can be said when Voodoo is suppressed. This will put Voodoo in **ready mode** which means it will listen to everything you said. **⚠️ It's strongly advised to suppress Voodoo before talking to other players or people in your meat space. Your items are at risk!**
-- `"Attune Voodoo"` can be said when Voodoo is awake. This will put Voodoo in **attune mode** which means it will listen for incantations.
-- `"seal"` can be said when Voodoo is attuning and is used to cast spells that require less than 4 incantations. **Spells that require 4 incantations will auto-seal!**
-- `"nullify"` can be said when Voodoo is attuning and is used to abort casting. **⚠️ You will lose all items already consumed in the casting process!** To pause casting because you need to speak to another person, say `"Suppress Voodoo"` instead! You can continue with your incantation after awakening and attuning Voodoo again.
+- `"Suppress Chronos"` can be said at **any time** to deafen Chronos. It will no longer respond to any commands, except the awaken command.
+- `"Awaken Chronos"` can be said when Chronos is suppressed. This will put Chronos in **ready mode** which means it will listen to everything you said. **⚠️ It's strongly advised to suppress Chronos before talking to other players or people in your meat space. Your items are at risk!**
+- `"Attune Chronos"` can be said when Chronos is awake. This will put Chronos in **attune mode** which means it will listen for incantations.
+- `"seal"` can be said when Chronos is attuning and is used to cast spells that require less than 4 incantations. **Spells that require 4 incantations will auto-seal!**
+- `"nullify"` can be said when Chronos is attuning and is used to abort casting. **⚠️ You will lose all items already consumed in the casting process!** To pause casting because you need to speak to another person, say `"Suppress Chronos"` instead! You can continue with your incantation after awakening and attuning Chronos again.
 
 ## Verbal spell component
 
