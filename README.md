@@ -1,5 +1,3 @@
-# :warning:
-
 <p align="center">
   <img width="240" src="./src/ui/images/Voodoo.png" alt="Voodoo Logo" />
 </p>
@@ -7,7 +5,6 @@
 <h1 align="center">Chronos — Magic mod for <i>A Township Tale</i></h3></h1>
 
 <p align="center">
-  <a href="https://discord.gg/THy2AVBPHX" target="_blank"><img alt="Chat with the Chronos community on Discord" src="" /></a>
   <a href="CODE-OF-CONDUCT.md"><img alt="contributor covenant v2.0 adopted" src="https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg?style=for-the-badge" /></a>
 </p>
 
