@@ -1,36 +1,34 @@
-# :warning: Discontinuation Notice
-
-After flagging a breaking change to the A Township Tale's API service with the Alta team and hearing nothing for 90 days, I have decided to discontinue the Voodoo Mod. It was never a secret that Alta doesn't prioritise the support for bot development by the community, and so I took on a risk. A risk I thought was worth it for the last **two years** of running Voodoo. But after the breaking changes introduced late February 2023, I have lost faith that bot developers for this game are supported appropriately or will be in the future. I've poured uncountable hours of my free time into this project, so it's with a heavy heart that I decided to abandon it. My appetite for maintaining Voodoo has soured to the point where I just don't experience satisfaction from working on it compared to the frustrations I'm facing when interacting with Alta. Thank you all for enjoying Voodoo when it worked. It was never perfect, but I like to think that it brought you all some additional gameplay while it lasted.
+# :warning:
 
 <p align="center">
   <img width="240" src="./src/ui/images/Voodoo.png" alt="Voodoo Logo" />
 </p>
 
-<h1 align="center">Voodoo — Magic mod for <i>A Township Tale</i></h3></h1>
+<h1 align="center">Chronos — Magic mod for <i>A Township Tale</i></h3></h1>
 
 <p align="center">
-  <a href="https://discord.gg/THy2AVBPHX" target="_blank"><img alt="Chat with the Voodoo community on Discord" src="https://img.shields.io/discord/855827702992863242?style=for-the-badge" /></a>
+  <a href="https://discord.gg/THy2AVBPHX" target="_blank"><img alt="Chat with the Chronos community on Discord" src="" /></a>
   <a href="CODE-OF-CONDUCT.md"><img alt="contributor covenant v2.0 adopted" src="https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg?style=for-the-badge" /></a>
 </p>
 
 ---
 
-# 🔮 What is Voodoo?
+# 🔮 What is Chronos?
 
-**Voodoo** is a community-made magic mod for [_A Township Tale_](https://townshiptale.com/), a VR MMORPG game.
+**Chronos** is a community-made magic mod for [_A Township Tale_](https://townshiptale.com/), a VR MMORPG game.
 
-**Voodoo** consists of a **Voodoo Client** application (the repository you're looking at right now), [**Voodoo Server**](https://github.com/mdingena/att-voodoo-server), and a hidden **Voodoo Spellbook**.
+**Chronos** consists of a **Chronos Client** application (the repository you're looking at right now), [**Chronos Server**](https://github.com/ExoulsOfficial/att-Chronos-server), and a hidden **Chronos Spellbook**.
 
-**Voodoo Client** is a speech recognition application for _A Township Tale_ that lets you invoke magic spells with your voice on game servers that support **Voodoo**.
+**Chronos Client** is a speech recognition application for _A Township Tale_ that lets you invoke magic spells with your voice on game servers that support **Chronos**.
 
-[**Voodoo Server**](https://github.com/mdingena/att-voodoo-server) is our bot that listens to all the **Voodoo Clients** out there and sends console commands to the servers they are playing on.
+[**Chronos Server**](https://github.com/ExoulsOfficial/att-chronos-server) is our bot that listens to all the **Chronos Clients** out there and sends console commands to the servers they are playing on. (Currently Private)
 
-**Voodoo Spellbook** is a hidden repository that **Voodoo Server** uses to compare a list of spells to what players are invoking. Because the **Spellbook** is hidden, players need to discover the right combination of incantations and material components for each spell on their own!
+**Chronos Spellbook** is a hidden repository that **Chronos Server** uses to compare a list of spells to what players are invoking. Because the **Spellbook** is hidden, players need to discover the right combination of incantations and material components for each spell on their own!
 
 # ⚠️ Known issues
 
-- Voodoo can say "Not near a Spellcrafting Conduit" even when you're standing next to a green crystal cluster. When this happens it means the ATT server's `select find <player>` command has broken and the server needs to be restarted. Alta is aware of this bug.
-- Acid Bolt rarely connects with players or enemies. This doesn't appear to be a bug with Voodoo, as the mod doesn't change any wyrm spit properties.
+- Chronos can say "Not near a Spellcrafting Conduit" even when you're standing next to a green crystal cluster. When this happens it means the ATT server's `select find <player>` command has broken and the server needs to be restarted. Alta is aware of this bug. To help mitigate this make sure all repair boxed on the server are finished or removed because this is a major cause of the bug.
+- Acid Bolt rarely connects with players or enemies. This doesn't appear to be a bug with Chronos, as the mod doesn't change any wyrm spit properties.
 
 # 🚀 Installation & usage
 
@@ -38,37 +36,37 @@ After flagging a breaking change to the A Township Tale's API service with the A
 - [🧰 Guide for server owners](./guides/SERVER-OWNERS.md)
 - [✨ Casting spells](./guides/SPELLCASTING.md)
 - [📖 Spellbook](./spellbook/README.md)
-- [👩🏻‍🎓 Voodoo Vocabulary](./guides/VOCABULARY.md)
+- [👩🏻‍🎓 Chronos Vocabulary](./guides/VOCABULARY.md)
 - [💬 Discord server](https://discord.gg/THy2AVBPHX)
 
 # Frequently Asked Questions
 
 <details>
-<summary>Why is Voodoo not authenticating? It's stuck.</summary>
+<summary>Why is Chronos not authenticating? It's stuck.</summary>
 
-Make sure your system time is correct. Voodoo validates tokens retrieved from Alta and it compares the token's expiration date with your system time.
+Make sure your system time is correct. Chronos validates tokens retrieved from Alta and it compares the token's expiration date with your system time.
 
 </details>
 
 <details>
-<summary>I can't awaken Voodoo. Why is it not picking up my voice?</summary>
+<summary>I can't awaken Chronos. Why is it not picking up my voice?</summary>
 
-Voodoo currently relies on Windows speech recognition which uses Windows language packs. Make sure you have **English (United States)** configured as one of your Windows languages. To configure your Windows languages:
+Chronos currently relies on Windows speech recognition which uses Windows language packs. Make sure you have **English (United States)** configured as one of your Windows languages. To configure your Windows languages:
 
 1. Go to **Windows Settings**.
 1. Click the **Time & Language** tile.
 1. Click the **Language** tab.
 1. In the **Preferred Languages** section, add **English (United States)**.
-1. Restart Voodoo.
+1. Restart Chronos.
 
-If Voodoo is still not picking up your voice, you must make sure that your Default Input Device is set to the microphone you're using _before_ you start Voodoo:
+If Chronos is still not picking up your voice, you must make sure that your Default Input Device is set to the microphone you're using _before_ you start Chronos:
 
 ![How to set your default input device](./guides/default-device.png)
 
 </details>
 
 <details>
-<summary>Why has Voodoo misheard what I said?</summary>
+<summary>Why has Chronos misheard what I said?</summary>
 
 Speech recognition is tricky. Your accent might play a role as well (I'm not a native English speaker myself and it doesn't always correctly recognise what I said). The good news is, **Windows speech recognition can be trained**. Search online for ideas on how to train your speech recognition to more accurately understand the way **you** speak English.
 
@@ -76,17 +74,21 @@ Speech recognition is tricky. Your accent might play a role as well (I'm not a n
 
 # 🎩 Special thanks
 
+## Eythyn Wormbane
+
+Chronos is a direct fork of Ethyns Voodoo mod, We wouldn't be here without him. I strive to make Chronos unieque in it's own way building these strong foundations Ethyn has layed out.
+
 ## Poi
 
-Poi's work unraveling the mysteries of _A Township Tale_'s save strings was instrumental in building Voodoo. Poi didn't directly work on Voodoo, but Voodoo would not exist without his help. Thank you for sharing your secrets!
+Poi's work unraveling the mysteries of _A Township Tale_'s save strings was instrumental in building Chronos. Poi didn't directly work on Chronos, but Chronos would not exist without his help. Thank you for sharing your secrets!
 
 ## CJ (Siege)
 
-CJ's mountain of experience with speech recognition helped shape the way you interact with Voodoo. His knowledge has informed the best way to deal with voice commands and how to handle or work around false positives.
+CJ's mountain of experience with speech recognition helped shape the way you interact with Chronos. His knowledge has informed the best way to deal with voice commands and how to handle or work around false positives.
 
 # Maintainers
 
-- [Marc Dingena](https://github.com/mdingena) (owner)
+- [Exouls](https://github.com/ExoulsOfficial) (owner)
 
 # Contributing
 
