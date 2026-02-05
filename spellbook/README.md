@@ -139,7 +139,48 @@ You gain experience every time you cast a spell. The type and amount of XP you g
   <dd>Conjures a blue crystal sword that can be wielded like a weapon.</dd>
 
   <dt>Incantations</dt>
-  <dd>This spell's incantations are unknown. You can study this spell to discover its incantations.</dd>
+  <dd>
+    <table>
+      <thead>
+        <tr>
+          <th>Dock</th>
+          <th>Incantation</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td align="center"><code>ζ</code></td>
+          <td>
+            "FRAGMENT OF WEAPON"
+            <br />
+            short wooden handle
+          </td>
+        </tr>
+        <tr>
+          <td align="center"><code>δ</code></td>
+          <td>
+            "ARTIFACT OF EARTH"
+            <br />
+            palladium ingot
+          </td>
+        </tr>
+        <tr>
+          <td align="center"><code>λ</code></td>
+          <td>
+            "HEART OF GEMS"
+            <br />
+            blue crystal gem
+          </td>
+        </tr>
+        <tr>
+          <td align="center"><code>Ω</code></td>
+          <td>
+            "SEAL"
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </dd>
 </dl>
 </blockquote>
 </details>
@@ -162,7 +203,41 @@ You gain experience every time you cast a spell. The type and amount of XP you g
   <dd>Conjures a single serving of water inside of an empty flask.</dd>
 
   <dt>Incantations</dt>
-  <dd>This spell's incantations are unknown. You can study this spell to discover its incantations.</dd>
+  <dd>
+    <table>
+      <thead>
+        <tr>
+          <th>Dock</th>
+          <th>Incantation</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td align="center"><code>ζ</code></td>
+          <td>
+            "BONDS OF SILICA"
+            <br />
+            empty flask
+          </td>
+        </tr>
+        <tr>
+          <td align="center"><code>δ</code></td>
+          <td>
+            "FLUID OF PRODUCE"
+            <br />
+            ripe blueberry
+          </td>
+        </tr>
+        </tr>
+        <tr>
+          <td align="center"><code>Ω</code></td>
+          <td>
+            "SEAL"
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </dd>
 </dl>
 </blockquote>
 </details>
@@ -185,7 +260,40 @@ You gain experience every time you cast a spell. The type and amount of XP you g
   <dd>Conjures a small glass container used to hold various liquids.</dd>
 
   <dt>Incantations</dt>
-  <dd>This spell's incantations are unknown. You can study this spell to discover its incantations.</dd>
+  <dd>
+    <table>
+      <thead>
+        <tr>
+          <th>Dock</th>
+          <th>Incantation</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td align="center"><code>ζ</code></td>
+          <td>
+            "ESSENCE OF SILICA"
+            <br />
+            sandstone
+          </td>
+        </tr>
+        <tr>
+          <td align="center"><code>δ</code></td>
+          <td>
+            "HEART OF EMBERS"
+            <br />
+            coal
+          </td>
+        </tr>
+        <tr>
+          <td align="center"><code>λ</code></td>
+          <td>
+            "SEAL"
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </dd>
 </dl>
 </blockquote>
 </details>
@@ -208,7 +316,40 @@ You gain experience every time you cast a spell. The type and amount of XP you g
   <dd>Creates an artifact that lets another player bind their soul to you. Once Soulbound, certain spells that affect you also affect them. To Soulbind with someone, the other player must place the artifact in one of your belt docks. You can have up to 4 other players Soulbound to you at once. Touching an artifact bound to another player will break the Soulbond.</dd>
 
   <dt>Incantations</dt>
-  <dd>This spell's incantations are unknown. You can study this spell to discover its incantations.</dd>
+  <dd>
+    <table>
+      <thead>
+        <tr>
+          <th>Dock</th>
+          <th>Incantation</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td align="center"><code>ζ</code></td>
+          <td>
+            "SLIVER of EARTH"
+            <br />
+            rock
+          </td>
+        </tr>
+        <tr>
+          <td align="center"><code>δ</code></td>
+          <td>
+            "FRAGMENT OF GEMS"
+            <br />
+            blue crystal shard
+          </td>
+        </tr>
+        <tr>
+          <td align="center"><code>Ω</code></td>
+          <td>
+            "SEAL"
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </dd>
 </dl>
 </blockquote>
 </details>
@@ -231,7 +372,40 @@ You gain experience every time you cast a spell. The type and amount of XP you g
   <dd>Conjures additional servings of teleportation potion inside of a flask already containing teleportation potion.</dd>
 
   <dt>Incantations</dt>
-  <dd>This spell's incantations are unknown. You can study this spell to discover its incantations.</dd>
+  <dd>
+    <table>
+      <thead>
+        <tr>
+          <th>Dock</th>
+          <th>Incantation</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td align="center"><code>ζ</code></td>
+          <td>
+            "FLUID OF SILICA"
+            <br />
+            flask containing teleportation potion
+          </td>
+        </tr>
+        <tr>
+          <td align="center"><code>δ</code></td>
+          <td>
+            "ESSEENCE OF FUNGI"
+            <br />
+            burnt red mushroom
+          </td>
+        </tr>
+        <tr>
+          <td align="center"><code>Ω</code></td>
+          <td>
+            "SEAL"
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </dd>
 </dl>
 </blockquote>
 </details>
@@ -254,7 +428,40 @@ You gain experience every time you cast a spell. The type and amount of XP you g
   <dd>Conjures additional servings of water inside of a flask already containing water.</dd>
 
   <dt>Incantations</dt>
-  <dd>This spell's incantations are unknown. You can study this spell to discover its incantations.</dd>
+  <dd>
+    <table>
+      <thead>
+        <tr>
+          <th>Dock</th>
+          <th>Incantation</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td align="center"><code>ζ</code></td>
+          <td>
+            "FLUID OF SILICA"
+            <br />
+            flask containing water
+          </td>
+        </tr>
+        <tr>
+          <td align="center"><code>δ</code></td>
+          <td>
+            "FLUID OF PRODUCE"
+            <br />
+            ripe blueberry
+          </td>
+        </tr>
+        <tr>
+          <td align="center"><code>Ω</code></td>
+          <td>
+            "SEAL"
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </dd>
 </dl>
 </blockquote>
 </details>
@@ -273,8 +480,51 @@ You gain experience every time you cast a spell. The type and amount of XP you g
   <dt>Casts from</dt>
   <dd>Main hand</dd>
 
-  <dt>Description</dt>
-  <dd>Stow a held item into a pocket dimension, and simultaneously equip a stowed item from it.</dd>
+  <dt>Incantations</dt>
+  <dd>
+    <table>
+      <thead>
+        <tr>
+          <th>Dock</th>
+          <th>Incantation</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td align="center"><code>ζ</code></td>
+          <td>
+            "AETHER OF REVENANT"
+            <br />
+            soulbound
+          </td>
+        </tr>
+        <tr>
+          <td align="center"><code>δ</code></td>
+          <td>
+            "ARTIFACT OF PRODUCE"
+            <br />
+            canvas
+          </td>
+        </tr>
+        <tr>
+          <td align="center"><code>λ</code></td>
+          <td>
+            "BONDS OF BABU"
+            <br />
+            rope
+          </td>
+        </tr>
+        <tr>
+          <td align="center"><code>Ω</code></td>
+          <td>
+            "HEART OF EMBERS"
+            <br />
+            fule core
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </dd>
 
   <dt>Incantations</dt>
   <dd>This spell's incantations are unknown. You can study this spell to discover its incantations.</dd>
@@ -352,7 +602,48 @@ You gain experience every time you cast a spell. The type and amount of XP you g
   <dd>Launches a large ball of acid from your hand.</dd>
 
   <dt>Incantations</dt>
-  <dd>This spell's incantations are unknown. You can study this spell to discover its incantations.</dd>
+  <dd>
+    <table>
+      <thead>
+        <tr>
+          <th>Dock</th>
+          <th>Incantation</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td align="center"><code>ζ</code></td>
+          <td>
+            "SLIVER OF WYRM"
+            <br />
+            green leather strips
+          </td>
+        </tr>
+        <tr>
+          <td align="center"><code>δ</code></td>
+          <td>
+            "FRAGMENT OF SALT"
+            <br />
+            salt
+          </td>
+        </tr>
+        <tr>
+          <td align="center"><code>λ</code></td>
+          <td>
+            "ARTIFACT OF PYRE"
+            <br />
+            firework
+          </td>
+        </tr>
+        <tr>
+          <td align="center"><code>Ω</code></td>
+          <td>
+            "SEAL"
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </dd>
 </dl>
 </blockquote>
 </details>
@@ -375,7 +666,48 @@ You gain experience every time you cast a spell. The type and amount of XP you g
   <dd>Launches a gotera dart from your hand.</dd>
 
   <dt>Incantations</dt>
-  <dd>This spell's incantations are unknown. You can study this spell to discover its incantations.</dd>
+  <dd>
+    <table>
+      <thead>
+        <tr>
+          <th>Dock</th>
+          <th>Incantation</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td align="center"><code>ζ</code></td>
+          <td>
+            "SKIN OF TERA"
+            <br />
+            oak wood wedge
+          </td>
+        </tr>
+        <tr>
+          <td align="center"><code>δ</code></td>
+          <td>
+            "TUFT OF SPRIGGULL"
+            <br />
+            blue spriggull feather
+          </td>
+        </tr>
+        <tr>
+          <td align="center"><code>λ</code></td>
+          <td>
+            "HEART OF TERA"
+            <br />
+            gotera seedling
+          </td>
+        </tr>
+        <tr>
+          <td align="center"><code>Ω</code></td>
+          <td>
+            "SEAL"
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </dd>
 </dl>
 </blockquote>
 </details>
@@ -398,7 +730,40 @@ You gain experience every time you cast a spell. The type and amount of XP you g
   <dd>Creates a fireball in the palm of your hand. This fireball can be placed on the ground to kindle firewood, or thrown to illuminate dark places.</dd>
 
   <dt>Incantations</dt>
-  <dd>This spell's incantations are unknown. You can study this spell to discover its incantations.</dd>
+  <dd>
+    <table>
+      <thead>
+        <tr>
+          <th>Dock</th>
+          <th>Incantation</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td align="center"><code>ζ</code></td>
+          <td>
+            "ESSENCE OF EMBERS"
+            <br />
+            grass clump
+          </td>
+        </tr>
+        <tr>
+          <td align="center"><code>δ</code></td>
+          <td>
+            "FRAGMENT OF PYRE"
+            <br />
+            flint
+          </td>
+        </tr>
+        <tr>
+          <td align="center"><code>λ</code></td>
+          <td>
+            "SEAL"
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </dd>
 </dl>
 </blockquote>
 </details>
@@ -421,7 +786,50 @@ You gain experience every time you cast a spell. The type and amount of XP you g
   <dd>Launches a large ball of icy crystals from your hand.</dd>
 
   <dt>Incantations</dt>
-  <dd>This spell's incantations are unknown. You can study this spell to discover its incantations.</dd>
+  <dd>
+    <table>
+      <thead>
+        <tr>
+          <th>Dock</th>
+          <th>Incantation</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td align="center"><code>ζ</code></td>
+          <td>
+            "SKIN OF WYRM"
+            <br />
+            green leather strip
+          </td>
+        </tr>
+        <tr>
+          <td align="center"><code>δ</code></td>
+          <td>
+            "HEART OF GEMS"
+            <br />
+            blue crystal
+          </td>
+        </tr>
+        <tr>
+          <td align="center"><code>λ</code></td>
+          <td>
+            "TUFT OF SPRIGGULL"
+            <br />
+            blue feather
+          </td>
+        </tr>
+        <tr>
+          <td align="center"><code>Ω</code></td>
+          <td>
+            "ARTIFACT OF PYRE"
+            <br />
+            dynamite
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </dd>
 </dl>
 </blockquote>
 </details>
@@ -446,7 +854,40 @@ You gain experience every time you cast a spell. The type and amount of XP you g
   <dd>Reverse-age any given produce. Works on all unsliced fruits and vegetables, as well as apple cores and pumpkin pieces.</dd>
 
   <dt>Incantations</dt>
-  <dd>This spell's incantations are unknown. You can study this spell to discover its incantations.</dd>
+  <dd>
+    <table>
+      <thead>
+        <tr>
+          <th>Dock</th>
+          <th>Incantation</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td align="center"><code>ζ</code></td>
+          <td>
+            "FRAGMENT OF GEMS"
+            <br />
+            blue crystal shard
+          </td>
+        </tr>
+        <tr>
+          <td align="center"><code>δ</code></td>
+          <td>
+            "HEART OF PRODUCE"
+            <br />
+            any produce
+          </td>
+        </tr>
+        <tr>
+          <td align="center"><code>Ω</code></td>
+          <td>
+            "SEAL"
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </dd>
 </dl>
 </blockquote>
 </details>
@@ -506,7 +947,21 @@ You gain experience every time you cast a spell. The type and amount of XP you g
 <blockquote>
 <h2>Repair Device (ash wood)</h2>
 <dl>
-  <dt>This spell has been disabled due to balance issues and/or mechanics that are planed to be changed in the future<dt>
+  <dt>School</dt>
+  <dd>Transmutation</dd>
+
+  <dt>Type</dt>
+  <dd>Instant</dd>
+
+  <dt>Casts from</dt>
+  <dd>Main hand</dd>
+
+  <dt>Description</dt>
+  <dd>Restores some of the integrity of all ash wood parts in a hilted device held in your main casting hand.</dd>
+
+  <dt>Incantations</dt>
+  <dd>This spell's incantations are unknown. You can study this spell to discover its incantations.</dd>
+  
 </dl>
 </blockquote>
 </details>
@@ -516,17 +971,46 @@ You gain experience every time you cast a spell. The type and amount of XP you g
 <blockquote>
 <h2>Repair Device (birch wood)</h2>
 <dl>
-  <dt>This spell has been disabled due to balance issues and/or mechanics that are planed to be changed in the future<dt>
+  <dt>School</dt>
+  <dd>Transmutation</dd>
+
+  <dt>Type</dt>
+  <dd>Instant</dd>
+
+  <dt>Casts from</dt>
+  <dd>Main hand</dd>
+
+  <dt>Description</dt>
+  <dd>Restores some of the integrity of all birch wood parts in a hilted device held in your main casting hand.</dd>
+
+  <dt>Incantations</dt>
+  <dd>This spell's incantations are unknown. You can study this spell to discover its incantations.</dd>
+  
 </dl>
-</blockquote>
-</details>
 
 <details>
 <summary>Repair Device (copper)</summary>
 <blockquote>
 <h2>Repair Device (copper)</h2>
+<summary>Repair Device (copper)</summary>
+<blockquote>
+<h2>Repair Device (copper)</h2>
 <dl>
-  <dt>This spell has been disabled due to balance issues and/or mechanics that are planed to be changed in the future<dt>
+  <dt>School</dt>
+  <dd>Transmutation</dd>
+
+  <dt>Type</dt>
+  <dd>Instant</dd>
+
+  <dt>Casts from</dt>
+  <dd>Main hand</dd>
+
+  <dt>Description</dt>
+  <dd>Restores some of the integrity of all copper parts in a hilted device held in your main casting hand.</dd>
+
+  <dt>Incantations</dt>
+  <dd>This spell's incantations are unknown. You can study this spell to discover its incantations.</dd>
+
 </dl>
 </blockquote>
 </details>
@@ -535,8 +1019,25 @@ You gain experience every time you cast a spell. The type and amount of XP you g
 <summary>Repair Device (electrum)</summary>
 <blockquote>
 <h2>Repair Device (electrum)</h2>
+<summary>Repair Device (electrum)</summary>
+<blockquote>
+<h2>Repair Device (electrum)</h2>
 <dl>
-  <dt>This spell has been disabled due to balance issues and/or mechanics that are planed to be changed in the future<dt>
+  <dt>School</dt>
+  <dd>Transmutation</dd>
+
+  <dt>Type</dt>
+  <dd>Instant</dd>
+
+  <dt>Casts from</dt>
+  <dd>Main hand</dd>
+
+  <dt>Description</dt>
+  <dd>Restores some of the integrity of all electrum parts in a hilted device held in your main casting hand.</dd>
+
+  <dt>Incantations</dt>
+  <dd>This spell's incantations are unknown. You can study this spell to discover its incantations.</dd>
+
 </dl>
 </blockquote>
 </details>
@@ -546,7 +1047,21 @@ You gain experience every time you cast a spell. The type and amount of XP you g
 <blockquote>
 <h2>Repair Device (gold)</h2>
 <dl>
-  <dt>This spell has been disabled due to balance issues and/or mechanics that are planed to be changed in the future<dt>
+  <dt>School</dt>
+  <dd>Transmutation</dd>
+
+  <dt>Type</dt>
+  <dd>Instant</dd>
+
+  <dt>Casts from</dt>
+  <dd>Main hand</dd>
+
+  <dt>Description</dt>
+  <dd>Restores some of the integrity of all gold parts in a hilted device held in your main casting hand.</dd>
+
+  <dt>Incantations</dt>
+  <dd>This spell's incantations are unknown. You can study this spell to discover its incantations.</dd>
+
 </dl>
 </blockquote>
 </details>
@@ -556,7 +1071,21 @@ You gain experience every time you cast a spell. The type and amount of XP you g
 <blockquote>
 <h2>Repair Device (iron)</h2>
 <dl>
-  <dt>This spell has been disabled due to balance issues and/or mechanics that are planed to be changed in the future<dt>
+  <dt>School</dt>
+  <dd>Transmutation</dd>
+
+  <dt>Type</dt>
+  <dd>Instant</dd>
+
+  <dt>Casts from</dt>
+  <dd>Main hand</dd>
+
+  <dt>Description</dt>
+  <dd>Restores some of the integrity of all iron parts in a hilted device held in your main casting hand.</dd>
+
+  <dt>Incantations</dt>
+  <dd>This spell's incantations are unknown. You can study this spell to discover its incantations.</dd>
+
 </dl>
 </blockquote>
 </details>
@@ -566,7 +1095,21 @@ You gain experience every time you cast a spell. The type and amount of XP you g
 <blockquote>
 <h2>Repair Device (mythril)</h2>
 <dl>
-  <dt>This spell has been disabled due to balance issues and/or mechanics that are planed to be changed in the future<dt>
+  <dt>School</dt>
+  <dd>Transmutation</dd>
+
+  <dt>Type</dt>
+  <dd>Instant</dd>
+
+  <dt>Casts from</dt>
+  <dd>Main hand</dd>
+
+  <dt>Description</dt>
+  <dd>Restores some of the integrity of all mythril parts in a hilted device held in your main casting hand.</dd>
+
+  <dt>Incantations</dt>
+  <dd>This spell's incantations are unknown. You can study this spell to discover its incantations.</dd>
+
 </dl>
 </blockquote>
 </details>
@@ -576,7 +1119,21 @@ You gain experience every time you cast a spell. The type and amount of XP you g
 <blockquote>
 <h2>Repair Device (oak wood)</h2>
 <dl>
-  <dt>This spell has been disabled due to balance issues and/or mechanics that are planed to be changed in the future<dt>
+  <dt>School</dt>
+  <dd>Transmutation</dd>
+
+  <dt>Type</dt>
+  <dd>Instant</dd>
+
+  <dt>Casts from</dt>
+  <dd>Main hand</dd>
+
+  <dt>Description</dt>
+  <dd>Restores some of the integrity of all oak wood parts in a hilted device held in your main casting hand.</dd>
+
+  <dt>Incantations</dt>
+  <dd>This spell's incantations are unknown. You can study this spell to discover its incantations.</dd>
+
 </dl>
 </blockquote>
 </details>
@@ -586,7 +1143,21 @@ You gain experience every time you cast a spell. The type and amount of XP you g
 <blockquote>
 <h2>Repair Device (palladium)</h2>
 <dl>
-  <dt>This spell has been disabled due to balance issues and/or mechanics that are planed to be changed in the future<dt>
+  <dt>School</dt>
+  <dd>Transmutation</dd>
+
+  <dt>Type</dt>
+  <dd>Instant</dd>
+
+  <dt>Casts from</dt>
+  <dd>Main hand</dd>
+
+  <dt>Description</dt>
+  <dd>Restores some of the integrity of all palladium parts in a hilted device held in your main casting hand.</dd>
+
+  <dt>Incantations</dt>
+  <dd>This spell's incantations are unknown. You can study this spell to discover its incantations.</dd>
+
 </dl>
 </blockquote>
 </details>
@@ -596,7 +1167,21 @@ You gain experience every time you cast a spell. The type and amount of XP you g
 <blockquote>
 <h2>Repair Device (red iron)</h2>
 <dl>
-  <dt>This spell has been disabled due to balance issues and/or mechanics that are planed to be changed in the future<dt>
+  <dt>School</dt>
+  <dd>Transmutation</dd>
+
+  <dt>Type</dt>
+  <dd>Instant</dd>
+
+  <dt>Casts from</dt>
+  <dd>Main hand</dd>
+
+  <dt>Description</dt>
+  <dd>Restores some of the integrity of all red iron parts in a hilted device held in your main casting hand.</dd>
+
+  <dt>Incantations</dt>
+  <dd>This spell's incantations are unknown. You can study this spell to discover its incantations.</dd>
+
 </dl>
 </blockquote>
 </details>
@@ -606,7 +1191,21 @@ You gain experience every time you cast a spell. The type and amount of XP you g
 <blockquote>
 <h2>Repair Device (redwood)</h2>
 <dl>
-  <dt>This spell has been disabled due to balance issues and/or mechanics that are planed to be changed in the future<dt>
+  <dt>School</dt>
+  <dd>Transmutation</dd>
+
+  <dt>Type</dt>
+  <dd>Instant</dd>
+
+  <dt>Casts from</dt>
+  <dd>Main hand</dd>
+
+  <dt>Description</dt>
+  <dd>Restores some of the integrity of all redwood parts in a hilted device held in your main casting hand.</dd>
+
+  <dt>Incantations</dt>
+  <dd>This spell's incantations are unknown. You can study this spell to discover its incantations.</dd>
+
 </dl>
 </blockquote>
 </details>
@@ -616,7 +1215,21 @@ You gain experience every time you cast a spell. The type and amount of XP you g
 <blockquote>
 <h2>Repair Device (silver)</h2>
 <dl>
-  <dt>This spell has been disabled due to balance issues and/or mechanics that are planed to be changed in the future<dt>
+  <dt>School</dt>
+  <dd>Transmutation</dd>
+
+  <dt>Type</dt>
+  <dd>Instant</dd>
+
+  <dt>Casts from</dt>
+  <dd>Main hand</dd>
+
+  <dt>Description</dt>
+  <dd>Restores some of the integrity of all silver parts in a hilted device held in your main casting hand.</dd>
+
+  <dt>Incantations</dt>
+  <dd>This spell's incantations are unknown. You can study this spell to discover its incantations.</dd>
+
 </dl>
 </blockquote>
 </details>
@@ -626,7 +1239,21 @@ You gain experience every time you cast a spell. The type and amount of XP you g
 <blockquote>
 <h2>Repair Device (valyan)</h2>
 <dl>
-  <dt>This spell has been disabled due to balance issues and/or mechanics that are planed to be changed in the future<dt>
+  <dt>School</dt>
+  <dd>Transmutation</dd>
+
+  <dt>Type</dt>
+  <dd>Instant</dd>
+
+  <dt>Casts from</dt>
+  <dd>Main hand</dd>
+
+  <dt>Description</dt>
+  <dd>Restores some of the integrity of all valyan parts in a hilted device held in your main casting hand.</dd>
+
+  <dt>Incantations</dt>
+  <dd>This spell's incantations are unknown. You can study this spell to discover its incantations.</dd>
+
 </dl>
 </blockquote>
 </details>
@@ -636,7 +1263,21 @@ You gain experience every time you cast a spell. The type and amount of XP you g
 <blockquote>
 <h2>Repair Device (viridium)</h2>
 <dl>
-  <dt>This spell has been disabled due to balance issues and/or mechanics that are planed to be changed in the future<dt>
+  <dt>School</dt>
+  <dd>Transmutation</dd>
+
+  <dt>Type</dt>
+  <dd>Instant</dd>
+
+  <dt>Casts from</dt>
+  <dd>Main hand</dd>
+
+  <dt>Description</dt>
+  <dd>Restores some of the integrity of all viridium parts in a hilted device held in your main casting hand.</dd>
+
+  <dt>Incantations</dt>
+  <dd>This spell's incantations are unknown. You can study this spell to discover its incantations.</dd>
+
 </dl>
 </blockquote>
 </details>
@@ -646,7 +1287,21 @@ You gain experience every time you cast a spell. The type and amount of XP you g
 <blockquote>
 <h2>Repair Device (walnut wood)</h2>
 <dl>
-  <dt>This spell has been disabled due to balance issues and/or mechanics that are planed to be changed in the future<dt>
+  <dt>School</dt>
+  <dd>Transmutation</dd>
+
+  <dt>Type</dt>
+  <dd>Instant</dd>
+
+  <dt>Casts from</dt>
+  <dd>Main hand</dd>
+
+  <dt>Description</dt>
+  <dd>Restores some of the integrity of all walnut wood parts in a hilted device held in your main casting hand.</dd>
+
+  <dt>Incantations</dt>
+  <dd>This spell's incantations are unknown. You can study this spell to discover its incantations.</dd>
+  
 </dl>
 </blockquote>
 </details>
@@ -669,7 +1324,48 @@ You gain experience every time you cast a spell. The type and amount of XP you g
   <dd>Transmutes a copper ingot to an iron ingot.</dd>
 
   <dt>Incantations</dt>
-  <dd>This spell's incantations are unknown. You can study this spell to discover its incantations.</dd>
+  <dd>
+    <table>
+      <thead>
+        <tr>
+          <th>Dock</th>
+          <th>Incantation</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td align="center"><code>ζ</code></td>
+          <td>
+            "ESSENCE OF EMBERS"
+            <br />
+            coal
+          </td>
+        </tr>
+        <tr>
+          <td align="center"><code>δ</code></td>
+          <td>
+            "ARTIFACT OF EARTH"
+            <br />
+            copper ingot
+          </td>
+        </tr>
+        <tr>
+          <td align="center"><code>λ</code></td>
+          <td>
+            "HEART OF GEMS"
+            <br />
+            blue crystal gem
+          </td>
+        </tr>
+        <tr>
+          <td align="center"><code>Ω</code></td>
+          <td>
+            "SEAL"
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </dd>
 </dl>
 </blockquote>
 </details>
@@ -717,7 +1413,40 @@ You gain experience every time you cast a spell. The type and amount of XP you g
 
   <dt>Incantations</dt>
   <dt>Incantations</dt>
-  <dd>This spell's incantations are unknown. You can study this spell to discover its incantations.</dd>
+  <dd>
+    <table>
+      <thead>
+        <tr>
+          <th>Dock</th>
+          <th>Incantation</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td align="center"><code>ζ</code></td>
+          <td>
+            "ARTIFACT OF EARTH"
+            <br />
+            any ingot
+          </td>
+        </tr>
+        <tr>
+          <td align="center"><code>δ</code></td>
+          <td>
+            "BONDS OF EARTH"
+            <br />
+            rock
+          </td>
+        </tr>
+        <tr>
+          <td align="center"><code>Ω</code></td>
+          <td>
+            "SEAL"
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </dd>
 </dl>
 </blockquote>
 </details>
@@ -832,7 +1561,48 @@ You gain experience every time you cast a spell. The type and amount of XP you g
   <dd>Transmutes a medium wooden handle to its iron equivalent.</dd>
 
   <dt>Incantations</dt>
-  <dd>This spell's incantations are unknown. You can study this spell to discover its incantations.</dd>
+  <dd>
+    <table>
+      <thead>
+        <tr>
+          <th>Dock</th>
+          <th>Incantation</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td align="center"><code>ζ</code></td>
+          <td>
+            "HEART OF WEAPON"
+            <br />
+            medium straight wooden handle
+          </td>
+        </tr>
+        <tr>
+          <td align="center"><code>δ</code></td>
+          <td>
+            "BONDS OF DAIS"
+            <br />
+            tan leather strips
+          </td>
+        </tr>
+        <tr>
+          <td align="center"><code>λ</code></td>
+          <td>
+            "ARTIFACT OF EARTH"
+            <br />
+            iron ingot
+          </td>
+        </tr>
+        <tr>
+          <td align="center"><code>Ω</code></td>
+          <td>
+            "SEAL"
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </dd>
 </dl>
 </blockquote>
 </details>
@@ -855,7 +1625,48 @@ You gain experience every time you cast a spell. The type and amount of XP you g
   <dd>Transmutes a short wooden handle to its iron equivalent.</dd>
 
   <dt>Incantations</dt>
-  <dd>This spell's incantations are unknown. You can study this spell to discover its incantations.</dd>
+  <dd>
+    <table>
+      <thead>
+        <tr>
+          <th>Dock</th>
+          <th>Incantation</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td align="center"><code>ζ</code></td>
+          <td>
+            "HEART OF WEAPON"
+            <br />
+            short wooden handle
+          </td>
+        </tr>
+        <tr>
+          <td align="center"><code>δ</code></td>
+          <td>
+            "BONDS OF DAIS"
+            <br />
+            tan leather strips
+          </td>
+        </tr>
+        <tr>
+          <td align="center"><code>λ</code></td>
+          <td>
+            "ARTIFACT OF EARTH"
+            <br />
+            iron ingot
+          </td>
+        </tr>
+        <tr>
+          <td align="center"><code>Ω</code></td>
+          <td>
+            "SEAL"
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </dd>
 </dl>
 </blockquote>
 </details>
@@ -878,7 +1689,48 @@ You gain experience every time you cast a spell. The type and amount of XP you g
   <dd>Transmutes an iron ingot to a gold ingot.</dd>
 
   <dt>Incantations</dt>
-  <dd>This spell's incantations are unknown. You can study this spell to discover its incantations.</dd>
+  <dd>
+    <table>
+      <thead>
+        <tr>
+          <th>Dock</th>
+          <th>Incantation</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td align="center"><code>ζ</code></td>
+          <td>
+            "ESSENCE OF EMBERS"
+            <br />
+            coal
+          </td>
+        </tr>
+        <tr>
+          <td align="center"><code>δ</code></td>
+          <td>
+            "ARTIFACT OF EARTH"
+            <br />
+            iron ingot
+          </td>
+        </tr>
+        <tr>
+          <td align="center"><code>λ</code></td>
+          <td>
+            "HEART OF GEMS"
+            <br />
+            blue crystal gem
+          </td>
+        </tr>
+        <tr>
+          <td align="center"><code>Ω</code></td>
+          <td>
+            "SEAL"
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </dd>
 </dl>
 </blockquote>
 </details>
@@ -924,7 +1776,40 @@ You gain experience every time you cast a spell. The type and amount of XP you g
   <dd>Transmutes a flask containing one or more servings of water into teleportation potion.</dd>
   
   <dt>Incantations</dt>
-  <dd>This spell's incantations are unknown. You can study this spell to discover its incantations.</dd>
+  <dd>
+    <table>
+      <thead>
+        <tr>
+          <th>Dock</th>
+          <th>Incantation</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td align="center"><code>ζ</code></td>
+          <td>
+            "FLUID OF SILICA"
+            <br />
+            flask containing water
+          </td>
+        </tr>
+        <tr>
+          <td align="center"><code>δ</code></td>
+          <td>
+            "ESSENCE OF FUNGI"
+            <br />
+            burnt red mushroom
+          </td>
+        </tr>
+        <tr>
+          <td align="center"><code>λ</code></td>
+          <td>
+            "SEAL"
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </dd>
 </dl>
 </blockquote>
 </details>
