@@ -93,9 +93,9 @@ export const SettingsPanel = (): JSX.Element => {
         <div>
           <div className={styles.header}>Settings</div>
           <div className={styles.settings}>
-            <Button onClick={toggleLock}>{speechMode === SpeechMode.Locked ? 'Unlock' : 'Lock'} Voodoo</Button>
+            <Button onClick={toggleLock}>{speechMode === SpeechMode.Locked ? 'Unlock' : 'Lock'} Chronos</Button>
             <div className={styles.description}>
-              Stops all speech recognition. Useful if you notice Voodoo keeps awakening when you don&apos;t want it to.
+              Stops all speech recognition. Useful if you notice Chronos keeps awakening when you don&apos;t want it to.
             </div>
             <div className={styles.group}>
               <Button isBusy={isBusy} isMuted={dexterity[0] === 'right'} onClick={() => setEvokeHand('left')}>
