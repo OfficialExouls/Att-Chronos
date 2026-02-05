@@ -26,6 +26,7 @@ All possible property words are:
 - `skin`
 - `sliver`
 - `tuft`
+- `impliment`
 
 All possible source words are:
 
